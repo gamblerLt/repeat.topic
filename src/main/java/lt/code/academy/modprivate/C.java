@@ -1,4 +1,4 @@
-package lt.code.academy;
+package lt.code.academy.modprivate;
 
 public class C {
 
