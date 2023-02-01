@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83223733-f187-41f3-9b11-bf152540dc72" name="Changes" comment="caseElse">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/loop/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/loop/User.java" afterDir="false" />
+    <list default="true" id="83223733-f187-41f3-9b11-bf152540dc72" name="Changes" comment="ListMap">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/exercises/OneTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/exercises/TwoTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/paveldejimas/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/paveldejimas/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/paveldejimas/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/paveldejimas/MyAbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/paveldejimas/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/paveldejimas/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/paveldejimas/MyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/paveldejimas/MySecondInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +28,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Record" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -46,16 +55,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/HasPe/Documents/GitHub/home.work.january"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.lt.code.academy.loop.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.code.academy.method.Main" />
+  <component name="RunManager" selected="Application.TwoTask">
+    <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.code.academy.paveldejimas.MyMain" />
       <module name="repeat.topic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lt.code.academy.method.*" />
+          <option name="PATTERN" value="lt.code.academy.paveldejimas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +73,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lt.code.academy.check.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.code.academy.check.Main" />
+    <configuration name="OneTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.code.academy.exercises.OneTask" />
       <module name="repeat.topic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lt.code.academy.check.*" />
+          <option name="PATTERN" value="lt.code.academy.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.code.academy.exercises.TwoTask" />
+      <module name="repeat.topic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.code.academy.exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,11 +112,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lt.code.academy.paveldejimas.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.code.academy.paveldejimas.Main" />
+      <module name="repeat.topic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.code.academy.paveldejimas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoTask" />
+        <item itemvalue="Application.OneTask" />
+        <item itemvalue="Application.MyMain" />
+        <item itemvalue="Application.lt.code.academy.paveldejimas.Main" />
         <item itemvalue="Application.lt.code.academy.loop.Main" />
-        <item itemvalue="Application.lt.code.academy.check.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +156,13 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1675191865640</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="ListMap">
+      <created>1675195366352</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1675195366352</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,6 +179,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="MetodaiKlases" />
     <MESSAGE value="caseElse" />
-    <option name="LAST_COMMIT_MESSAGE" value="caseElse" />
+    <MESSAGE value="ListMap" />
+    <option name="LAST_COMMIT_MESSAGE" value="ListMap" />
   </component>
 </project>
