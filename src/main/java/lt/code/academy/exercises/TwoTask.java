@@ -15,20 +15,28 @@ public class TwoTask {
         for (int i = 0; i < userInput; i++) {
             array[i] = scanner.nextInt();
 
-            //  System.out.println(array[i]);
-
         }
 
         System.out.println("I masyva ivedete sius skaicius:");
-        for (int i = 0; i < userInput; i++) {
-            System.out.print(array[i] + " ");
 
+        for (int i = 0; i < userInput; i++) {
+            System.out.print(array[i] + ", ");
         }
-        System.out.println("\nI masyva ivedete sius skaicius kurie mazesni uz 100:");
-        for (int i = 0; i < userInput; i++) {
-            if(array[i] < 100)
 
-            System.out.print(array[i]);
+        System.out.println("\n********");
+        System.out.println("I masyva ivedete siuos skaicius kurie mazesni uz 100:");
+
+        for (int i = 0; i < userInput; i++) {
+            if (array[i] < 100)
+                System.out.print(array[i] + ", ");
+        }
+
+       System.out.println("I masyva ivedete siuos skaicius kurie didesni uz 100:\n");
+
+        for (int i = 0; i < userInput; i++) {
+            if (array[i] > 100)
+                System.out.println(array[i] + ", ");
+
         }
 
     }
