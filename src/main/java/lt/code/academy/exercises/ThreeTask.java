@@ -10,8 +10,11 @@ public class ThreeTask {
         System.out.println("Iveskite skacius (0 daro abrakadabra): ");
         int number = scanner.nextInt();
 
-        int[] array = new int[number];
+        int[] array = new int[10];
         for (int i = 0; i < number; i++) {
+            array[i] = scanner.nextInt();
+
+            System.out.println(array[i] + ", ");
 
         }
 
