@@ -24,12 +24,14 @@ public class TwoTask {
             System.out.print(array[i] + " ");
 
         }
-        System.out.println("I masyva ivedete sius skaicius kurie mazesni uz 20:");
+        System.out.println("\nI masyva ivedete sius skaicius kurie mazesni uz 100:");
         for (int i = 0; i < userInput; i++) {
-            System.out.print(array[i] + " ");
+            if(array[i] < 100)
+
+            System.out.print(array[i]);
         }
+
     }
 
 }
-
 
