@@ -1,7 +1,5 @@
 package lt.code.academy.exercises;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 public class TwoTask {
