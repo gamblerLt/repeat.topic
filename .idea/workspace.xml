@@ -6,11 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="83223733-f187-41f3-9b11-bf152540dc72" name="Changes" comment="tasksRev">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/code/academy/exercises/FiveTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/exercises/FiveTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/code/academy/exercises/FourTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/exercises/FourTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/code/academy/exercises/NineTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/exercises/NineTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/code/academy/exercises/SevenTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/exercises/SevenTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/lt/code/academy/exercises/SixTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/exercises/SixTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/code/academy/exercises/ThreeTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/exercises/ThreeTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/code/academy/exercises/TwoTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/exercises/TwoTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/code/academy/exercises/TenElevenTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/exercises/TenElevenTask.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/HasPe/Documents/GitHub/home.work.january&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ThreeTask">
+  <component name="RunManager" selected="Application.TenElevenTask">
     <configuration name="FiveTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lt.code.academy.exercises.FiveTask" />
       <module name="repeat.topic" />
@@ -68,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FourTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.code.academy.exercises.FourTask" />
+    <configuration name="NineTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.code.academy.exercises.NineTask" />
       <module name="repeat.topic" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +80,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OneTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.code.academy.exercises.OneTask" />
+    <configuration name="SixTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.code.academy.exercises.SixTask" />
+      <module name="repeat.topic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.code.academy.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TenElevenTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.code.academy.exercises.TenElevenTask" />
       <module name="repeat.topic" />
       <extension name="coverage">
         <pattern>
@@ -107,26 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.code.academy.exercises.TwoTask" />
-      <module name="repeat.topic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lt.code.academy.exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TenElevenTask" />
+        <item itemvalue="Application.NineTask" />
+        <item itemvalue="Application.SixTask" />
         <item itemvalue="Application.ThreeTask" />
         <item itemvalue="Application.FiveTask" />
-        <item itemvalue="Application.FourTask" />
-        <item itemvalue="Application.TwoTask" />
-        <item itemvalue="Application.OneTask" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +156,13 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1675195366352</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="tasksRev">
+      <created>1675363155916</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1675363155916</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +180,7 @@
     <MESSAGE value="MetodaiKlases" />
     <MESSAGE value="caseElse" />
     <MESSAGE value="ListMap" />
-    <option name="LAST_COMMIT_MESSAGE" value="ListMap" />
+    <MESSAGE value="tasksRev" />
+    <option name="LAST_COMMIT_MESSAGE" value="tasksRev" />
   </component>
 </project>
