@@ -4,6 +4,7 @@ public class TenElevenTask {
     public static void main(String[] args) {
 
         String text = "Laba diena";
+        String text2 = "1";
         StringBuilder stringBuilder = new StringBuilder(text);
         System.out.println(stringBuilder.indexOf("ab"));
         stringBuilder.append(text);
@@ -13,6 +14,12 @@ public class TenElevenTask {
                 System.out.println(raidziuSk);
             }
         }
+        if (text2 instanceof String) {
+            System.out.println(" Tai yra tekstas. ");
+        }else{
+            System.out.println("Tai nera tekstas");
+        }
+
 
     }
 }
